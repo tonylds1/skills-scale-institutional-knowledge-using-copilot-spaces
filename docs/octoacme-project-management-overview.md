@@ -1,5 +1,7 @@
 # OctoAcme Project Management Overview
 
+Last modified: 2026-08-24 by @tonylds1
+
 ## Purpose
 Provide a concise, shareable introduction to how OctoAcme runs projects so new teammates can quickly understand our approach, roles, and key artifacts.
 
@@ -44,3 +46,7 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+
+---
+
+Note: Each process document should include a standardized "Last modified: YYYY-MM-DD by @github-username" line directly under the document title for traceability.
